@@ -1,6 +1,11 @@
-﻿using Nancy;
+﻿// Katana Demo
+// Mike Dice (mikedice417@hotmail.com)
+// Created: March 2014.
+// Repo: https://github.com/mikedice/KatanaDemoMar2014.git
 
-namespace WebApplication2
+using Nancy;
+
+namespace KatanaDemo
 {
     public class HomeModule : NancyModule
     {

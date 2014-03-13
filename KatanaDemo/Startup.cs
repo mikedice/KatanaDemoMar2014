@@ -1,6 +1,7 @@
 ﻿// Katana Demo
 // Mike Dice (mikedice417@hotmail.com)
 // Created: March 2014.
+// Repo: https://github.com/mikedice/KatanaDemoMar2014.git
 
 using System.Web.Http;
 using Owin;
