@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Nancy.Library" namespace="" version="1.0.22.0" schemaVersion="1.0" fcib="true" sourceBranch="external" state="Prerelease" publishUser="REDMOND\mikedice" viewableScope="all">
+  <Description>Nancy package version 0.22.0</Description>
+  <Permissions>
+    <Owners>
+      <User Identity="redmond\mikedice" />
+    </Owners>
+  </Permissions>
+  <Public>
+    <MiscFiles>
+      <MiscFile path="net40\Nancy.dll" />
+      <MiscFile path="net40\Nancy.xml" />
+    </MiscFiles>
+  </Public>
+</Package>

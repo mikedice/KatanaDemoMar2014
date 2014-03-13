@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="OwinHost.Library" namespace="" version="2.1.0.0" schemaVersion="1.0" fcib="true" sourceBranch="external" state="Prerelease" publishUser="REDMOND\mikedice" viewableScope="all">
+  <Description>OwinHost 2.1.0</Description>
+  <Permissions>
+    <Owners>
+      <User Identity="redmond\mikedice" />
+    </Owners>
+  </Permissions>
+  <Public>
+    <MiscFiles>
+      <MiscFile path="install.ps1" />
+      <MiscFile path="Microsoft.Owin.dll" />
+      <MiscFile path="Microsoft.Owin.Host.HttpListener.dll" />
+      <MiscFile path="Microsoft.Owin.Hosting.dll" />
+      <MiscFile path="Owin.dll" />
+      <MiscFile path="OwinHost.exe" />
+      <MiscFile path="OwinHost.exe.config" />
+      <MiscFile path="uninstall.ps1" />
+    </MiscFiles>
+  </Public>
+</Package>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Owin.Library" namespace="" version="1.0.0.0" schemaVersion="1.0" fcib="true" sourceBranch="external" state="Prerelease" publishUser="REDMOND\mikedice" viewableScope="all">
+  <Description>Owin 1.0 library</Description>
+  <Permissions>
+    <Owners>
+      <User Identity="redmond\mikedice" />
+    </Owners>
+  </Permissions>
+  <Public>
+    <MiscFiles>
+      <MiscFile path="net40\Owin.dll" />
+    </MiscFiles>
+  </Public>
+</Package>

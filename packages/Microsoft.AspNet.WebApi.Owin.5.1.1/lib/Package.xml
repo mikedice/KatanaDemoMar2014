@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="MicrosoftASpNetWebApiOwin.Library" namespace="" version="5.1.1.0" schemaVersion="1.0" fcib="true" sourceBranch="external" state="Prerelease" publishUser="REDMOND\mikedice" viewableScope="all">
+  <Description>aspnet owin</Description>
+  <Permissions>
+    <Owners>
+      <User Identity="redmond\mikedice" />
+    </Owners>
+  </Permissions>
+  <Public>
+    <MiscFiles>
+      <MiscFile path="net45\System.Web.Http.Owin.dll" />
+      <MiscFile path="net45\System.Web.Http.Owin.xml" />
+    </MiscFiles>
+  </Public>
+</Package>

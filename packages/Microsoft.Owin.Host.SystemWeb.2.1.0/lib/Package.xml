@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="MicrosoftOwinHostSystemWeb.Library" namespace="" version="2.1.0.0" schemaVersion="1.0" fcib="true" sourceBranch="external" state="Prerelease" publishUser="REDMOND\mikedice" viewableScope="all">
+  <Description>owin system.web host version 2.1.0.0</Description>
+  <Permissions>
+    <Owners>
+      <User Identity="redmond\mikedice" />
+    </Owners>
+  </Permissions>
+  <Public>
+    <MiscFiles>
+      <MiscFile path="net40\Microsoft.Owin.Host.SystemWeb.dll" />
+      <MiscFile path="net40\Microsoft.Owin.Host.SystemWeb.xml" />
+      <MiscFile path="net45\Microsoft.Owin.Host.SystemWeb.dll" />
+      <MiscFile path="net45\Microsoft.Owin.Host.SystemWeb.xml" />
+    </MiscFiles>
+  </Public>
+</Package>
